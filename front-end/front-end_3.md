@@ -190,3 +190,7 @@ export default function Home() {
 
 <br>
 <br>
+
+---
+
+[「2. 装飾」に進む](./front-end_2.md)　｜　[「 4. Component 」に進む](./front-end_4.md)
